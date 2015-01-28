@@ -1,0 +1,16 @@
+﻿
+Nouns	Nouns	Verbs	Colors	Numbers
+boy	shoes	run	red	one
+girl	hat	play	blue	two
+woman	friend	eat	yellow	three
+man	teacher	sleep	green	four
+baby	car	was	brown	five
+cat	truck	were	black	six
+dog	bus	am		
+fish	mom	is		
+bird	dad	are		
+pet	family	had		
+water	box	has		
+milk	bike	work		
+shirt	desk	give		
+pants	table	help

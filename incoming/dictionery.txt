@@ -1,0 +1,54 @@
+
+1	A) dictionery	B) dictionary	C) Neither
+2	A) bureaucracy	B)bureacracy	C) Neither
+3	A) aggrivate	B) agravate	C) Neither
+4	A) hurriedly	B) hurridly	C) Neither
+5	A) minitiure	B) miniature	C) Neither
+6	A) choclate	B) chocolate	C) Neither
+7	A) panicky	B) panicy	C) Neither
+8	A) amatuer	B) amateur	C) Neither
+9	A) wholey	B) wholly	C) Neither
+10	A) innoculate	B) inocullate	C) Neither
+11	A) quandry	B) quandary	C) Neither
+12	A) disasterous	B) disastrous	C) Neither
+13	A) superintendent	B) superintendant	C) Neither
+14	A) knowledgeable	B) knowledgable	C) Neither
+15	A) realisticly	B) realisticaly	C) Neither
+16	A) explaination	B) explanation	C) Neither
+17	A) literally	B) literaly	C) Neither
+18	A) temperature	B) temperture	C) Neither
+19	A) reminise	B) reminicse	C) Neither
+20	A) guage	B) gauge	C) Neither
+21	A) unanimous	B) unanymous	C) Neither
+22	A) opponant	B) oponent	C) Neither
+23	A) sargent	B) sargeant	C) Neither
+24	A) viscious	B) visious	C) Neither
+25	A) reciept	B) receipt	C) Neither
+
+
+1 b
+2 a ?bureaucracy
+3 c aggravate
+4 a
+5 b
+6 b
+7 a?
+8 b
+9 b
+10 c inoculate
+11 a b
+12 a b
+13 b a
+14 a
+15 a? c:realistically
+16 b?
+17 a literally
+18 a
+19 b? c: reminisce
+20 b
+21 a
+22 c opponent
+23 b c: sergeant
+24 a? c: vicious
+25 b?
+

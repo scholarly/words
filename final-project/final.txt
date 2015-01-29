@@ -1,0 +1,68 @@
+
+
+I want to share with you a few of the things I learned in a course called "Learning How to Learn"
+This is a MOOC created by Dr. Barbara Oakley and Dr. Terrence Sejnowski of UC San Diego
+
+But first, I would like to share from my own experience "How to NOT to learn"
+This is something I have experience with: I have flunked out of college three times. Let me tell you how I did it:
+
+ * I habitually burned the candle at both ends: I didn't get enough sleep, ever.  As a deadline would loom closer I would get less and less sleep. I would bet more and more stressed and grumpy.  The all-nighter before a test was all too frequent.
+
+ * I procrastinated like crazy.  I kept telling myself "It will be easy. I don't need to study yet. I can catch up next week. I need to figure out how to use this cool new program to help me study more effectively." Basically, I did everything *except* what I should have been doing.
+
+ * At one point, I would spend several hours of "study time" on Facebook because the thought of how far behind I was was so painful.
+
+ * Of course, I never knew exactly how I was spending my time. When I turned on the computer and opened the web browser, I went into zombie mode and was unconscious of anything else for several hours. Lack of sleep didn't help this either.
+
+ * And of course, I am so smart that I can learn anything in a very short time. "Teach yourself to program Java in 24 hours?" Ha. I can do it in 24 minutes!
+
+
+
+What I learned (and am learning) from this course is why the things I was doing are exactly the wrong things.
+
+## Sleep
+
+The tendency to think of sleep as a waste of time is quite common in impatient people like me.
+The truth is that sleep is *essential* to a well-functioning brain. One of the things that happens during sleep is that the neurons in your brain actually shrink and allow the fluid in your brain to wash away neurotoxins that have accumulated during the day. Sleep also helps clean up the loose ends in your learning and make it more permanent.  If we think of long term memory as a storage warehouse, the learning we do when we are conscious is like recieving a bunch of semi-trucks full of goods during the day. The forklift operators on the night shift can take several hours putting away those loads in the right places, and preparing the shipments for the next day.  And sometimes, you have to shuffle things around to make room for new stuff and keep it organized. This shuffling just doesn't work well on the day shift when there are a lot of people walking around.
+
+## Exercise
+
+Another thing that is just as helpful as sleep is exercise. Moving your muscles in a regular pattern (jogging) is something your brain can do with very little effort. When you exercise, your brain can enter this "diffuse mode" and do many of the things it does at night.  It is almost like a lunch break. When there are no trucks at the dock demanding to be loaded *now*, the lift drivers can go off and find those three pallets of bumbershoots that someone put on the wrong rack. In other words, your brain can find solutions to problems it can't solve under the pressure of the "focused mode".
+
+## record keeping
+
+Yeah, yeah, yeah. We all know we should keep track of things. But who has time to do that?
+
+Who has time to *not* do that? If you don't keep records of what you do and how long it took you, how will you know what worked or didn't work?  How much time are you wasting using less-effective processes? Without records, you will never know.
+
+As a programmer, I immediately recognized the value of Dr. Oakley's weekly and daily TODO lists. I the software industry, we call them backlogs and use three levels: product backlog, sprint backlog, and daily backlog. I haven't started doing this yet, but I will.
+
+## Eat your frogs first
+
+This is another one that we know we *should* be doing. It just means to the most important things first, however unpleasant they may be to do.
+(Although, I don't believe that *every* creature necessarily finds eating frogs unpleasant.)
+
+## Spaced repetition
+
+Dr. Oakley likens building neural pathways (a.k.a. learning) to building a brick wall. If you try to build the wall too quickly, the mortar will not have time to set, and the wall will collapse. Research shows that recalling material you have learned at increasing intervals will create stronger memories and better learning with less time invested that just repeating it over and over and over on the first day, then never reviewing it again until just before the test. The optimal time to recall a memory is "just before it would have been forgotten".
+
+I heard about a flash-card program called Anki that implements a simple spaced repetition strategy. I resisted checking it out for a long time. I was worried that it would be a distraction.  I was right and I was wrong. It was a distraction -- I spent a lot of time learning to use it. But it was not wasted time. I am using it to review key points from my lecture notes (which I am taking and using now, instead of maybe taking and never looking at again.) and to help my daughter practice for her spelling bee and my son to learn how to read. I love this program and I plan to use it a lot in the future.
+
+
+## procrastination
+
+I am a master of procrastination.  I learned about how habits are formed and how to change a bad habit into a good one. 
+The pomodoro technique is one useful tactic in this battle. My daughter said, "It makes me *feel* like I accomplished more by breaking up my study into a focused time and short break times."
+
+
+## Be patient
+
+I think the most important thing I learned from the course is to be patient. Learning, like anything worthwhile takes time. Don't rush it. Take the time to do it well.
+
+My boss shared something with me today that really drove this concept home. He told about his study of martial arts. He spent many years studying karate, and reached the brown belt level. He told me that the traditional belt system only has three belts: white, brown, and black. The Impatient Americans said, "that is not enough: we need to add more levels so students can get a better sense of progress."  Some might call this 'instant gratification'. After studying karate, he watched a domonstration of aikido decided he wanted to learn it.  He studied aikido for many years (unlearning his bad habits from karate). His teacher moved back to Japan just before he was able to advance to brown belt, but he still continues his exercises every day.
+
+What really opened my mind to this amazing discipline was watching the [video of Steven Seagal defend himself against four simultaneous determined attackers](https://www.youtube.com/watch?v=cwFwSIMmq4g).  Then came the kicker.  To learn this skill, he moved to Japan and lived there for *fifteen years*.  He took the time to learn something deeply. Now he is, as Cal Newport says, "So good they can't ignore you."
+
+
+
+

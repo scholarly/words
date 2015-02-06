@@ -1,0 +1,1224 @@
+#01
+domo
+house
+hejmo
+home
+pordo
+door
+fenestro
+window
+ŝtuparo
+staircase, stairs
+planko
+floor
+muro
+wall
+plafono
+ceiling
+seĝo
+chair
+lito
+bed
+sofo
+sofa
+tablo
+table
+kuirejo
+kitchen
+banĉambro
+bathroom
+bano
+bath
+# 02
+necesejo
+toilet
+breto
+shelf
+kulero
+spoon
+studo
+study
+bakujo
+oven
+lumeco
+light
+lampo
+lamp
+ĝardeno
+garden
+herbo
+grass
+vitro
+glass (substance)
+glaso
+(drinking) glass
+floro
+flower
+tranĉilo
+knife
+forko
+fork
+fajro
+fire
+# 03
+kameno
+fireplace, hearth
+taso
+cup
+plako
+plate
+komputero
+computer
+vestoj
+clothes
+fumtubo
+chimney, smokestack
+krajono
+pencil
+skribilo
+pen
+bovlo
+bowl
+libro
+book
+skatolo
+box
+ĉambro
+room
+tapiŝeto
+rug
+tegmento
+roof
+tereno
+ground, grounds, terrain, campus
+# 04
+manĝoĉambro
+dining room
+televidilo
+TV set
+aŭto
+automobile, car
+spegulo
+mirror
+vojo
+way, path, road
+pluvo
+rain
+ciklo
+bike
+buso
+bus
+pavimo
+pavement
+butiko
+store, shop
+ŝipo
+ship
+ĉielo
+heaven, sky
+suno
+sun
+stilo
+style
+neĝo
+snow
+# 05
+stacio
+station (for bus, train, etc.)
+tero
+earth, ground
+nubo
+cloud
+arbo
+tree
+trajno
+train
+buterpano
+bread and butter
+pano
+bread
+butero
+butter
+biero
+beer
+fromaĝo
+cheese
+ĉefkuiristo
+chef
+kremo
+cream
+ĉokolado
+chocolate
+kokido
+chicken
+krokodilo
+crocodile
+# 06
+akvo
+water
+lakto
+milk
+viando
+meat
+manĝo
+meal
+melono
+melon
+tomato
+tomato
+suko
+juice
+frukto
+fruit
+legomo
+vegetable
+nutraĵo
+food, nourishment, sustenance
+trinko
+drink, beverage
+vino
+wine
+pato
+pan, frying pan
+pomo
+apple
+oranĝo
+orange (fruit)
+# 07
+cepo
+onion
+terpomo
+potato
+ajlo
+garlic
+salo
+salt
+spico
+spice, seasoning
+pipro
+pepper
+ovo
+egg
+muziko
+music
+patrino
+mother
+patro
+father
+knabo
+boy
+knabino
+girl
+gitaro
+guitar
+violono
+violin
+koramikino
+girlfriend
+# 08
+koramiko
+boyfriend
+avo
+grandfather
+avino
+grandmother
+sporto
+sport
+fratino
+sister
+frato
+brother
+lernejo
+school
+littuko
+sheet (bed)
+kanto
+song
+edzo
+husband
+edzino
+wife
+historio
+history, story
+ĉi tie
+here, at this place
+tie
+there, that place
+fianĉo
+fiance
+# 09
+familio
+family
+apartamento
+apartment
+universitato
+university
+arto
+art
+filozofio
+philosophy
+psikologio
+psychology
+
+pentri
+to paint (a portrait, landscape, etc)
+
+farbi
+to paint
+
+telefono
+telephone
+
+matematiko
+mathematics
+
+nevino
+niece
+
+nevo
+nephew
+
+nun
+now
+
+tiam
+then, that time
+
+drumo
+drum set
+# 10
+ili
+they
+
+ĉi tiu
+this one, this person
+
+kurteno
+curtain
+
+antaŭ
+before, in front of (time and space)
+Ignored
+post kiam
+after
+
+onklino
+aunt
+
+onklo
+uncle
+
+homo
+human being
+
+virino
+woman
+
+viro
+man
+
+ni
+we, us
+
+vi
+you
+
+ŝi
+she, her
+
+li
+he
+
+ĝi
+it
+# 11
+mi
+I, me
+
+amiko
+friend
+
+ludo
+game
+
+esti
+to be
+
+havi
+to have
+
+fari
+to do, to make
+
+paroli
+to speak, to talk
+
+diri
+to say
+
+aŭskulti
+to listen (to)
+
+aŭdi
+to hear
+
+senti
+to feel
+
+voli
+to want to
+
+kuri
+to run
+
+marŝi
+to walk; march
+
+mensogi
+to tell a lie
+# 12
+flugi
+to fly
+
+danci
+to dance
+
+kanti
+to sing
+
+manĝi
+to eat (something)
+
+trinki
+to drink
+
+kredi
+to believe
+
+esperi
+to hope
+
+paroli
+to speak, to talk
+
+ŝati
+to like, to appreciate
+
+ami
+to love, to like
+
+preni
+to take (literally carry)
+
+alporti
+to bring (something or someone to)
+
+ŝteli
+to steal
+
+tuŝi
+to touch
+
+asisti
+to abet, aid, assist, help, attend to, support
+# 13
+helpi
+to help
+
+renkonti
+to meet, encounter
+
+kuiri
+to cook
+
+lavi
+to wash
+
+purigi
+to clean
+
+perdi
+to lose
+
+trovi
+to find
+
+pensi
+to think
+
+nomi
+to name
+
+voki
+to summon, to call
+
+rigardi
+to look (at)
+
+malami
+to detest, hate
+
+akiri
+to acquire, get
+
+iri
+to go
+
+povoscii
+to be master of, know
+# 14
+scii
+to know (a fact)
+
+vidi
+to see
+
+veni
+to come
+
+doni
+to give
+
+uzi
+to use
+
+rakonti
+to narrate, to tell (a story)
+
+demandi
+to ask ( a question)
+
+labori
+to work
+
+ŝajni
+to seem, to appear to be
+
+provi
+to try, to test
+
+forlasi
+to forsake, to leave
+
+hundo
+dog
+
+kato
+cat
+
+birdo
+bird
+
+ĉevalo
+horse
+# 15
+bovo
+cow, ox
+
+koko
+chicken
+
+porko
+pig
+
+leono
+lion
+
+tigro
+tiger
+
+muŝo
+fly; housefly
+
+formiko
+ant
+
+moskito
+mosquito
+
+araneo
+spider
+
+fiŝo
+fish
+
+baleno
+whale
+
+ŝarko
+shark
+
+kuniklo
+rabbit
+
+kolombo
+dove
+
+muso
+mouse
+# 16
+aglo
+eagle
+
+insekto
+insect
+
+blua
+blue
+
+verda
+green
+
+ruĝa
+red
+
+rozkolora
+pink
+
+blanka
+white
+
+nigra
+black
+
+flava
+yellow
+
+oranĝa
+orange
+
+bruna
+brown
+
+arĝenta
+silver, silvery
+
+ora
+golden
+
+purpura
+purple
+
+griza
+grey
+# 17
+persono
+person
+aĵo
+thing
+vivo
+life
+studento
+student
+lando
+country, land
+problemo
+problem
+rolo
+role, part
+parto
+(a) part
+loko
+place, location, spot
+firmo
+company, firm, enterprise, business
+sistemo
+system
+la
+the
+demando
+question
+laboro
+work
+saluti
+to greet
+# 18
+ŝtato
+state
+registaro
+administration, government
+nombro
+number, amount
+nombri
+to count
+mono
+money
+prava
+right, correct (in opinion or statement), conforming to the truth
+malprava
+wrong
+lefta
+left, left-hand
+dekstra
+right (not left)
+tasko
+task
+vorto
+word
+frazo
+sentence, phrase
+negoco
+business, trade, commerce, transaction
+urbo
+city
+nomo
+name
+povi
+to be able to
+# 19
+teamo
+team
+informo
+information
+gepatro
+parent
+oficejo
+office, bureau
+milito
+war
+aero
+air
+instruisto
+teacher
+fridujo
+refrigerator
+hejtilo
+heater
+vortaro
+dictionary, vocabulary
+lundo
+Monday
+mardo
+Tuesday
+merkredo
+Wednesday
+ĵaŭdo
+Thursday
+# 20
+vendredo
+Friday
+sabato
+Saturday
+dimanĉo
+Sunday
+semajno
+week
+monato
+month
+jaro
+year
+hieraŭ
+yesterday
+hodiaŭ
+today
+morgaŭ
+tomorrow
+tago
+day
+minuto
+(a) minute
+horo
+hour, time of day
+sekundo
+(a) second
+nokto
+night
+mateno
+morning
+# 21
+posttagmezo
+afternoon
+vespero
+evening
+tempo
+time
+januaro
+January
+februaro
+February
+marto
+March
+aprilo
+April
+majo
+May (month)
+junio
+June
+julio
+July
+aŭgusto
+August
+septembro
+September
+oktobro
+October
+novembro
+November
+decembro
+December
+# 22
+ĉapelo
+hat
+ŝuo
+shoe
+ŝtrumpeto
+sock (n)
+pantalono
+pants, trousers
+kuloto
+short pants, shorts
+kalsono
+underwear
+ĉemizo
+shirt
+pulovero
+pullover
+surtuto
+overcoat
+palto
+coat, overcoat
+jako
+jacket
+hararo
+coat (animal), hair (head of)
+haro
+(one) hair
+vizaĝo
+face
+kolo
+neck
+# 23
+okulo
+eye
+orelo
+ear
+nazo
+nose
+buŝo
+mouth
+lipo
+lip
+lango
+tongue
+ŝultro
+shoulder
+dorso
+back
+brako
+arm
+kubuto
+elbow
+manradiko
+wrist
+mano
+hand
+fingro
+finger
+dikfingro
+thumb
+brusto
+chest, breast
+# 24
+stomako
+stomach
+kokso
+hip
+kruro
+leg
+genuo
+knee
+maleolo
+ankle
+piedo
+foot
+piedfingro
+toe
+lanugaĵo
+eiderdown, duvet
+litkovrilo
+blanket, quilt
+vazo
+vase, basin
+sako
+sack, bag
+monujo
+purse, wallet
+botelo
+bottle
+varmega
+hot
+varma
+warm
+# 25
+malvarma
+bleak, chilly, cold
+bona
+good
+malbona
+bad
+ŝlosilo
+key (for lock)
+monto
+mountain
+montoĉeno
+chain of mountains, mountain chain, mountain range, rand
+ponto
+bridge
+rivero
+river
+boato
+boat
+irejo
+path, road, way
+stelo
+star
+kandelo
+candle
+horloĝo
+clock
+horaro
+schedule, timetable
+ŝnuro
+string, cord
+# 26
+ŝnurego
+cable, rope
+tubisto
+fitter, plumber
+tubo
+tube, pipe
+kuracisto
+physician, doctor
+advokato
+lawyer, barrister
+inĝeniero
+civil engineer
+flegisto
+(a) nurse
+malsanejo
+hospital
+malsano
+ailment, disease, illness, malady, sickness
+legi
+to read
+skribi
+to write
+ekzerco
+drill, exercise, practice
+ekzercado
+practice, exercise, training
+fotilo
+camera
+teatraĵo
+play (in theater)
+# 27
+ludi
+to play
+papero
+paper
+ĵurnalo
+newspaper
+kotono
+cotton
+ligno
+wood
+ledo
+leather
+arbaro
+a wood
+arbarego
+large forest, great forest
+maro
+sea
+dezerto
+desert
+sablo
+sand
+roko
+rock
+rokego
+boulder
+feliĉa
+fortunate, happy
+trista
+sad
+# 28
+kolera
+angry
+maltrankvila
+agitated, anxious, restless, uneasy, fitful
+trankvila
+calm, quiet
+fola
+zany, silly
+amuza
+amusing, entertaining, funny
+akĉento
+accent
+ŝanĝi
+to change (something)
+tajpi
+to type
+tipo
+type
+administristo
+administrator
+administra
+administrative
+flughaveno
+airport
+preskaŭ
+almost, nearly
+ĉiam
+always, at all times
+Britujo
+Britain, Great Britain
+# 29
+Anglujo
+England
+Kimrujo
+Wales
+Irlando
+Ireland
+Skotlando
+Scotland
+Francujo
+France
+Svisio
+Switzerland
+Nederlando
+Netherlands
+Hispanlando
+Spain
+Germanujo
+Germany
+Belgujo
+Belgium
+Italujo
+Italy
+Pollando
+Poland
+Rusujo
+Russia
+Ĉinio
+China
+Barato
+India
+# 30
+Tajlando
+Siam, Thailand
+Usono
+United States of America
+Aŭstralio
+Australia
+Novzelando
+New Zealand
+Eŭropo
+Europe
+Afriko
+Africa
+Azio
+Asia
+Nordameriko
+North America
+Sudameriko
+South America
+Oceanio
+Oceania, Oceanica
+oceano
+ocean
+Arkto
+Arctic
+lingvo
+language
+nordo
+north
+sudo
+south
+# 31
+oriento
+east
+okcidento
+West
+pri
+about, concerning
+ĉirkaŭ
+around
+super
+over, above
+malsuper
+below
+apud
+by, near, beside (applies to place only)
+malantaŭ
+behind (in space)
+transe
+across, opposite, on the other side of
+kaj
+and
+ĉar
+because, since
+kial
+why, which reason
+de
+of, from
+disde
+out of
+al
+to, towards
+# 32
+por
+for
+sed
+but
+kontraŭ
+against, opposite
+simio
+monkey
+odori
+to smell (intr), to give off a smell, to reek
+flari
+to smell
+flaro
+smell
+malmodesta
+arrogant, conceited
+modesta
+modest
+mortigi
+to kill
+morti
+to die
+for
+away (distant)
+ŝtopilo
+(e.g. bath) plug
+folio
+leaf
+dorsosako
+rucksack, pack, backpack
+# 33
+ŝranko
+cupboard
+aŭtoro
+author
+duŝo
+douche, shower
+infano
+child
+restoracio
+restaurant
+trinkejo
+bar, pub
+korpo
+body
+osto
+bone
+sango
+blood
+banko
+bank (financial)
+serpento
+serpent, snake
+ideo
+idea
+punkto
+point, period
+motoro
+motor, engine
+fali
+to fall
+# 34
+farmi
+(tr) to farm
+barbo
+beard
+edzigi
+to marry, wed
+merkato
+market, sales activity
+ridi
+to laugh
+aĉeti
+to buy
+koni
+to know (be well acquainted with)
+sendi
+to send
+devi
+to have to (must)
+nomiĝi
+to be called
+resti
+to stay, remain
+ekposedi
+to take possession of
+atendi
+to wait for, to expect
+lerni
+to learn
+serĉi
+to search for (something)
+# 35
+bezoni
+to need
+ĉefi
+to lead, be the boss of
+aljungi
+to put
+halti
+to stop
+vendi
+to sell
+kompreni
+to understand
+etendi
+(tr) to extend, to stretch out, to spread
+ekspliki
+to explain
+memori
+to remember
+manki
+to be missing, missed
+instrui
+to teach
+konektiĝi
+to connect
+regi
+to rule over, to control, to reign over
+konstrui
+to build
+rompi
+to break (something)
+# 36
+jes
+yes
+ne
+no
+eble
+maybe, perhaps, possibly
+bantuko
+bath towel
+krano
+faucet, tap
+pelvo
+basin, bowl, pelvis
+mansardo
+attic, garret
+en
+in, within, inside
+poŝtelefono
+cell phone, cellular telephone, mobile telephone
+motorciklo
+motorcycle
+piedpilkado
+football, soccer
+presilo
+printer
+rado
+wheel
+aviadilo
+airplane
+okulvitroj
+spectacles
+

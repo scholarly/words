@@ -1,0 +1,1597 @@
+# 02
+bela	beautiful
+birdo	bird
+blanka	white
+bona	good
+brili	To shine. To be bright
+ĉevalo	horse
+dormi	to sleep
+flava	yellow
+floro	flower
+flugi	to fly
+forta	strong
+granda	large, great, big
+kaj	and
+kanti	to sing
+knabo	boy
+kuri	to run
+la	the
+luno	moon
+marŝi	to walk; march
+pomo	apple
+suno	sun
+tablo	table
+violo	violet
+viro	man
+# 03
+alta	high, tall
+arbo	tree
+ĉambro	room
+en	in
+esti	to be
+folio	leaf
+freŝa	fresh
+ĝardeno	garden
+kampo	field, area
+kolombo	dove
+kuŝi	to lie down
+longa	long
+rozo	rose
+ruĝa	red
+seĝo	chair
+sidi	to sit, to be seated
+sur	on, upon
+ŝajni	to seem, to appear to be
+verda	green
+# 04
+apud	by, near, beside (applies to place only)
+benko	bench
+branĉo	branch
+diversa	various
+feliĉa	happy
+frukto	fruit
+havi	to have
+herbo	grass
+ili	they
+kolekti	to gather, to collect
+koloro	color
+larĝa	wide, broad
+manĝi	to eat (something)
+mola	soft
+nigra	black
+ne	not, no
+rompi	to break (something)
+sed	but
+trovi	to find
+vidi	to see
+# 05
+bruna	brown
+ĉerizo	cherry
+ĉu	yes/no interrogative
+dolĉa	sweet
+gusto	taste
+ĝi	it
+Gertrudo	Gertrude
+knabino	girl
+matura	ripe
+Mario	Mary
+nek	nor, neither... nor...
+persiko	peach
+jes	yes
+preferi	to prefer
+ŝati	to like, to appreciate
+voli	to want to, to wish
+# 06
+al	to, toward
+aŭ	or
+aŭ...aŭ...	either...or...
+ĉar	because, since
+doni	to give
+fali	to fall
+fenestro	window
+hodiaŭ	today
+kudri	to sew
+skui	to shake
+stari	to stand
+sub	under, beneath
+virino	woman
+Roberto	Robert
+# 07
+agrabla	pleasant, agreeable, nice
+bildo	picture, image
+blua	blue
+danki	to thank
+de	from
+diri	to say
+infano	child
+interesa	interesting
+luma	light (not dark)
+muro	wall
+nun	now
+planko	floor
+pordo	door
+rigardi	to look (at)
+tapiŝo	carpet
+tra	through
+# 08
+Alfredo	Alfred
+amuzi	to amuse
+antaŭ	before, in front of (time and space)
+aparteni	to belong to
+griza	gray
+iri	to go
+Johano	John
+kaŝi	to hide (something)
+komenci	to begin (something)
+laŭdi	to commend, to laud, to praise
+legi	to read
+libro	book
+perdi	to lose (something)
+skatolo	box
+strato	street
+si	himself, herself, themselves, itself
+# 09
+diro	saying, remark
+ĝis	as far as, up to, down to, until
+hieraŭ	yesterday
+juna	young
+kapti	to catch, to capture, to seize
+kato	cat
+kolera	angry
+lavi	to wash
+manĝo	meal
+nesto	nest
+pasero	sparrow
+patro	father
+post	after (in time)
+surprizi	to surprise
+teni	to hold, to keep
+vizaĝo	face
+# 10
+arabo	Arab
+baldaŭ	soon
+Bostono	Boston
+frato	brother
+kamelo	camel
+kapo	head
+kolo	neck
+korpo	body
+meti	to put, to place
+nazo	nose
+nur	only, merely
+puŝi	to push
+trans	across, on the other side of
+tuta	whole, entire, all
+urbo	city
+varma	warm
+# 11
+akvo	water
+amiko	friend
+ankaŭ	also, too
+bezoni	to need
+dezerto	desert
+fidela	faithful
+mono	money
+neĝi	to snow
+pluvi	to rain
+porti	to carry, to wear
+riĉa	rich, wealthy
+sablo	sand
+sako	sack, bag
+seka	dry
+tamen	however, nevertheless
+trinki	to drink
+veni	to come
+vojo	road, way
+# 12
+aŭdi	to hear
+pluvo	rain
+vetero	weather
+vento	wind
+ventoflago	weathercock
+blovi	to blow
+greno	grain (wheat, corn, etc.)
+velki	to wilt, to wither
+ke	that (conjunction)
+kontraŭ	against
+montri	to show, to point out
+norda	northern
+orienta	eastern
+suda	southern
+okcidenta	western
+oni	one, they, people (indefinite pronoun)
+opinii	to think, to have an opinion that...
+# 13
+almenaŭ	at least
+ĉapelo	hat
+ĉielo	sky, heaven
+filo	son
+konstrui	to build
+miri	to wonder
+morgaŭ	tomorrow
+nubo	cloud
+ombrelo	umbrella
+paroli	to talk, to speak
+parko	park
+preskaŭ	almost, nearly
+pri	concerning, about
+promeni	to take a walk
+super	above, over
+timi	to fear (something), to be afraid
+tiu	that one
+zorga	careful
+# 14
+buŝo	mouth
+dekstra	right (not left)
+ĉi	indicates proximity and nearness
+forko	fork
+helpo	help, aid
+kafo	coffee
+kulero	spoon
+mano	hand
+per	by means of, with
+supo	soup
+telero	plate (serving dish)
+terpomo	potato
+ties	that one's
+tranĉi	to cut (with knife)
+tre	very, exceedingly
+viando	meat
+# 15
+dum	during, while
+eĉ	even
+gardi	to guard
+helpi	to help
+honti	to be ashamed
+kara	dear, precious, expensive
+kontenta	satisfied, content
+kuraĝa	courageous, brave
+nokto	night
+povi	to be able to
+preni	to take
+propono	proposal
+respondi	to answer
+ruza	smart, cunning, clever, sly, crafty
+ŝteli	to steal
+tia	that kind of
+tuj	immediately
+voĉo	voice
+anstataŭ
+instead of
+aprilo
+April
+aŭgusto
+August
+jaro
+year
+junio
+June
+julio
+July
+majo
+May
+marto
+March
+monato
+month
+multa
+much, a lot of
+multaj
+many (plural form of "much")
+ofta
+frequent
+ofte
+often, frequently
+ol
+than (in comparision)
+printempo
+spring (season)
+tago
+day
+sezono
+season
+somero
+summer
+tial
+therefore, (for) that reason
+vintro
+winter
+# 19
+aŭtuno
+autumn, fall
+decembro
+December
+ju... des...
+the ... the ...
+februaro
+February
+glacio
+ice
+inter
+between, among
+januaro
+January
+kovri
+to cover
+neĝo
+snow
+novembro
+November
+nuda
+bare, naked
+oktobro
+October
+pro
+because of
+rikolti
+to harvest, reap
+rivero
+river
+septembro
+September
+tero
+earth, ground
+# 20
+dimanĉo
+Sunday
+energia
+energetic
+frosto
+frost
+je
+at, on (indefinite)
+kota
+muddy
+labori
+to work, to labor
+laca
+tired, weary
+mardo
+Tuesday
+# 21
+brila
+brilliant
+Dio
+God
+dividi
+to divide
+fari
+to make, to do
+forgesi
+to forget
+ĝojo
+joy
+konstanta
+constant
+kvieta
+quiet, calm
+lando
+land, country
+merkredo
+Wednesday
+mezo
+middle
+mondo
+world
+paci
+to be at peace
+por
+for
+plori
+to cry
+preta
+ready
+ridi
+to laugh
+riproĉi
+to reproach
+# 22
+Aleksandro
+Alexander
+barelo
+barrel
+bruo
+noise
+da
+of (follows quantity or measure)
+demandi
+to inquire, to ask
+Diogeno
+Diogenes
+greka
+Greek
+kelkaj
+several, some
+kvankam
+although
+ĉifono
+rag
+koni
+to be acquainted with
+laŭta
+loud
+lito
+bed
+loĝi
+to dwell, to reside
+nombro
+number (quantity)
+pura
+clean, pure
+sufiĉa
+sufficient, enough
+veki
+to wake (someone) up
+viziti
+to visit
+vesto
+garment, article of clothing
+# 23
+aĉeti
+to buy
+asparago
+asparagus
+brasiko
+cabbage
+butiko
+store, shop
+frago
+strawberry
+funto
+pound
+glaso
+glass, tumbler (for drinking)
+ĵaŭdo
+Thursday
+kremo
+cream
+kontuzo
+bruise, contusion
+lakto
+milk
+legomo
+vegetable
+ovo
+egg
+pizo
+pea
+sabato
+Saturday
+tiom
+that much, that amount
+vendredo
+Friday
+vilaĝo
+village
+# 24
+alia
+other, another
+baki
+to bake
+dika
+thick, fat
+facila
+easy
+familio
+family
+kanapo
+sofa
+kies
+whose, which one's
+kiu
+who, which one
+kuiri
+to cook
+kurteno
+curtain
+kutimo
+custom
+leciono
+lesson
+lerni
+to learn
+pano
+bread
+persono
+person
+salono
+parlor, salon
+# 25
+avo
+grandfather
+bukedo
+bouquet
+ekzameno
+examination, test
+fermi
+to close
+geometrio
+geometry
+germana
+German
+hejmo
+home
+kia
+what kind of, what sort of
+lingvo
+language
+nepo
+grandson
+nu
+well (then)! now then!
+papero
+paper
+saluti
+to greet
+scii
+to know (a fact)
+studi
+to study
+# 26
+aero
+air
+danci
+to dance
+fulmo
+lightning
+guto
+drop (of water, etc.)
+kie
+where
+okazi
+to happen, to occur
+okulo
+eye
+peco
+piece
+peza
+heavy
+polvo
+dust
+sekvi
+to follow
+serĉi
+to search, to search for
+silenta
+silent
+subita
+sudden
+tegmento
+roof
+tondro
+thunder
+# 27
+araneo
+spider
+Azio
+Asia
+ĉe
+at
+fino
+end, ending
+fojo
+time, instance
+kiam
+when
+pacienco
+patience
+piedo
+foot
+plafono
+ceiling
+rampi
+to crawl
+rekta
+direct, straight
+rimarki
+to notice
+sendi
+to send
+Skotlando
+Scotland
+soldato
+soldier
+sukcesi
+to succeed
+supre
+above
+venki
+to conquer
+# 28
+afabla
+amiable, affable, friendly
+afero
+thing, matter, affair
+balanci
+to balance, to nod
+barbo
+beard
+batalo
+battle
+brovo
+eyebrow
+buklo
+curl (of hair)
+haro
+(one) hair
+kial
+why
+mejlo
+mile
+okulharo
+eyelash
+okulvitroj
+spectacles, eyeglasses
+pensi
+to think
+vango
+cheek
+verando
+porch, veranda
+vivi
+to live, to be alive
+# 29
+unu
+one
+du
+two
+tri
+three
+kvar
+four
+kvin
+five
+ses
+six
+sep
+seven
+ok
+eight
+naŭ
+nine
+dek
+ten
+dek unu
+eleven
+dek du
+twelve
+# 30
+aritmetiko
+arithmetic
+cent
+(a) hundred
+eraro
+error, mistake
+kalkuli
+to calculate, to reckon
+kiom
+how much
+memori
+to remember
+mil
+(a) thousand
+minuto
+(a) minute
+ricevi
+to receive
+sekundo
+(a) second
+superjaro
+leap year
+# 31
+angla
+English
+deziri
+to desire, to wish
+dolaro
+dollar
+gajni
+to win, to gain
+kosti
+to cost
+lasta
+last
+latina
+Latin
+maro
+sea
+necesa
+necessary
+pafi
+to shoot
+pafarko
+bow (for shooting)
+parto
+a part, a share
+peni
+to strive, to try
+traduki
+to translate
+sago
+arrow
+sama
+same
+# 32
+ankoraŭ
+still, yet
+ataki
+to attack
+bati
+to beat
+certa
+sure, certain
+defendi
+to defend
+difekti
+to spoil (something)
+edzo
+husband
+fajro
+fire
+flari
+to smell
+gasto
+guest
+ho
+oh
+krii
+to exclaim, to cry out
+kruela
+cruel
+ligno
+wood
+suspekti
+to suspect
+# 32
+adiaŭ
+farewell, goodbye
+akcepti
+to accept, to receive
+elekti
+to choose, to select
+festi
+to celebrate, to entertain
+ganto
+glove
+ĝentila
+courteous, polite
+inviti
+to invite
+ĵus
+just (now), a moment ago
+kuzo
+cousin (male)
+malgraŭ
+notwithstanding, despite
+paro
+pair
+pendi
+to hang, to be suspended
+prezo
+price
+renkonti
+to meet
+ŝuo
+shoe
+uzi
+to use
+# 34
+atenta
+attentive
+aŭskulti
+to listen (to)
+babili
+to chatter, to chat
+doktoro
+doctor (not medical doctor)
+fraŭlo
+bachelor
+gaja
+merry, gay, cheerful
+grupo
+group
+onklo
+uncle
+sana
+healthy
+senti
+to feel
+sinjoro
+gentleman, mr
+ŝtupo
+step (of stairs)
+taso
+cup
+vojaĝo
+voyage, journey
+# 35
+ĥino
+Chinaman
+jam
+already
+klera
+enlightened, learned
+komerco
+trade, commerce
+lanco
+spear, lance
+libera
+free (as in speech)
+metodo
+method, way
+nacio
+nation
+paĝo
+page
+presi
+to print
+pulvo
+gunpowder
+ŝanĝi
+to change (something)
+teo
+tea
+teda
+tiresome, tedious
+# 36
+administri
+to manage
+antikva
+ancient, antique
+Eŭropo
+Europe
+grava
+important, serious
+itala
+Italian
+kvadrata
+square
+monto
+mountain
+nomo
+name
+proksima
+near, close
+reprezenti
+to represent
+respubliko
+republic
+tirano
+tyrant
+# 37
+ĉies
+everybody's, everyone's
+ĉiu
+everybody, each one
+decidi
+to decide
+devo
+duty, obligation
+fleksi
+to bend
+genuo
+knee
+intenci
+to intend
+juĝi
+to judge
+lago
+lake
+po
+at the rate of
+severa
+severe, strict
+stango
+pole
+sviso
+Swiss
+vendi
+to sell
+Vilhelmo
+William
+vorto
+word
+# 38
+agi
+to act, to behave
+cetera
+remaining
+ĉia
+of every kind
+fiera
+proud
+imagi
+to imagine
+konduki
+to lead, to conduct
+koro
+heart
+morti
+to die
+peti
+to plead, to request, to ask for
+prepari
+to prepare
+puni
+to punish
+reciproka
+reciprocal, mutual
+simila
+similar, alike
+tuŝi
+to touch
+# 39
+bileto
+ticket, note
+cendo
+cent
+ĉie
+everywhere
+esprimo
+expression
+giĉeto
+wicket, ticket window
+horloĝo
+clock
+pagi
+to pay
+preter
+beyond, past, straight past
+stacio
+station (for bus, train, etc.)
+telefoni
+to telephone, to call
+vagono
+car, carriage, wagon
+valizo
+valise, suitcase, luggage
+# 40
+atendi
+to wait (for), to expect
+ĉial
+for every reason
+ĉiam
+always
+gazeto
+magazine, gazette
+ĵurnalo
+journal, newspaper
+kompati
+to pity
+larmo
+tear (from the eye)
+laŭ
+according to, along
+maniero
+manner, way
+movi
+to move (something)
+okupi
+to occupy
+pala
+pale
+polico
+police
+trankvila
+calm, tranquil
+# 41
+besto
+animal
+ĉiel
+in every way
+ĉiom
+the whole, all (of it)
+donaco
+gift, present
+drapo
+cloth
+hundo
+dog
+konsisti
+to consist
+leono
+lion
+ludi
+to play
+materialo
+material
+posedi
+to own, to possess
+pupo
+doll
+rosti
+to roast
+verŝi
+to pour
+# 42
+bordo
+shore
+brako
+arm
+fabriki
+to manufacture
+kruta
+steep
+lano
+wool
+meblo
+piece of furniture
+pasi
+to pass
+pitoreska
+picturesque
+ponto
+bridge
+sonori
+to ring
+surtuto
+overcoat
+svingi
+to swing, to brandish
+ŝipo
+ship
+ŝtono
+stone
+vaporo
+steam, vapour
+veturi
+to travel (by vehicle)
+# 43
+amaso
+heap, throng, mass, crowd
+daŭri
+to continue, to last
+hirundo
+swallow (bird)
+homo
+human being
+humoro
+temper, humor, mood
+ies
+someone's, something's
+iu
+someone, something
+kuglo
+bullet
+militi
+to fight, to make war
+osto
+bone
+renversi
+to upset, to overturn
+signo
+sign, mark
+tendo
+tent
+truo
+hole
+# 44
+anonci
+to announce
+ia
+some kind of
+ie
+somewhere
+justa
+upright, just
+klara
+distinct, clear
+kreski
+to grow
+oportuna
+convenient, opportune
+paŝti
+to feed, to pasture
+plendi
+to complain
+proceso
+legal process
+rajto
+right, privilege
+ripari
+to repair
+suferi
+to suffer
+ŝnuro
+string, cord
+# 45
+akompani
+to accompany
+danĝero
+danger
+gvidi
+to guide
+ial
+for some reason
+iam
+some time
+indiferenta
+indifferent
+ja
+indeed (emphatic particle)
+kredi
+to believe
+salti
+to leap, to jump
+tiri
+to draw, to pull, to drag
+# 46
+Arĥimedo
+Archimedes
+bani
+to bathe (something)
+falsi
+to debase, to falsify
+Hierono
+Hiero
+honesta
+honest
+ideo
+idea
+iel
+somehow, some way
+iom
+some (amount), a little
+ĵeti
+to throw, to cast
+kompreni
+to understand
+krono
+crown
+levi
+to lift, to raise
+loko
+place, location, spot
+mem
+-self, -selves
+oro
+gold
+Sikelio
+Sicily
+# 47
+bruli
+to be in flames, to burn
+cilindro
+cylinder
+detrui
+to destroy
+fama
+famous
+filozofo
+philosopher
+fiziko
+physics
+insulo
+island
+maŝino
+machine
+nenies
+nobody's
+neniu
+no one, nobody
+problemo
+problem
+Sirakuzo
+Syracuse
+spegulo
+mirror
+ŝraŭbo
+screw
+# 48
+aranĝi
+to arrange
+arto
+art
+bero
+berry
+jen
+there, behold, "here/there it is"
+ĵaluza
+jealous
+konkurso
+competition
+lerta
+skillful, clever
+nenia
+no kind of
+neniam
+never
+nenie
+nowhere
+pentri
+to paint (a portrait, landscape, etc)
+postuli
+to demand, to require
+precipa
+principal, cheif
+regulo
+rule, regulation
+trompi
+to deceive
+vino
+wine
+# 49
+apenaŭ
+hardly, scarcely, barely
+atmosfero
+atmosphere
+dubi
+to doubt
+efektiva
+effective, real
+hela
+clear, bright
+horizonto
+horizon
+krepusko
+twilight
+nenial
+for no reason
+neniel
+in no way, by no means
+neniom
+none, no amount
+ombro
+shadow
+pejzaĝo
+landscape
+radio
+ray, radio
+tropika
+tropical
+# 50
+ĉio
+everything
+Gordio
+Gordius
+io
+something, anything
+jugo
+yoke
+klini
+to bend, to incline
+kio
+what
+ligi
+to tie, to bind, to link
+nenio
+nothing
+ofero
+offering
+regi
+to rule, to govern
+sankta
+holy
+templo
+temple
+tio
+that
+utila
+useful
+# 51
+ambaŭ
+both
+azeno
+donkey
+beni
+to bless
+dorso
+back
+formo
+form
+halti
+to stop
+monaĥo
+monk
+muta
+dumb, mute, speechless
+orelo
+ear
+petola
+mischievous, petulant
+propra
+(one's) own
+se
+if
+spiri
+to breathe
+turmenti
+to torment
+# 52
+ĉesi
+to cease
+densa
+dense
+difini
+to define
+ekzisti
+to exist
+flui
+to flow
+graviti
+to gravitate
+kaŭzi
+to cause
+leĝo
+law
+naturo
+nature
+objekto
+object
+plu
+further, more
+turni
+to turn (something)
+# 53
+akuzi
+to accuse
+instrui
+to teach
+kondamni
+to condemn
+konfesi
+to confess
+konscienco
+conscience
+kulpo
+guilt, fault
+meriti
+to deserve
+nobla
+noble
+pardoni
+to pardon, to forgive
+peki
+to sin, to transgress
+prava
+right, correct (in opinion or statement)
+sen
+without
+Sokrato
+Socrates
+veneno
+poison
+# 54
+Aristejdo
+Aristeides
+ekzili
+to exile
+enui
+to be wearied, bored
+ĝusta
+exact
+kvazaŭ
+as though, as if
+ostro
+oyster
+ostracismo
+ostracism
+popolo
+a people
+poto
+pot
+senco
+meaning, sense
+signifi
+to signify, to mean
+soni
+to sound
+stranga
+strange
+ŝelo
+shell, bark, peel
+# 55
+Afriko
+Africa
+barbaro
+barbarian
+Damoklo
+Damocles
+flanko
+side
+imperio
+empire
+konsenti
+to consent, to agree
+konsili
+to advise
+moŝto
+a title, excellency, majesty
+ordoni
+to order, to bid, to command
+permesi
+to permit, to allow
+plaĉi
+to please, to be pleasing
+sklavo
+slave
+sola
+sole, only, alone
+volonte
+willingly
+# 56
+celi
+to aim (at, for)
+Ciruso
+Cyrus
+fidi
+to rely, to trust
+ĝui
+to enjoy
+honoro
+honor
+krom
+beside, save, but, except for
+plena
+full, complete
+prokrasti
+to delay
+provizi
+to provide
+rezulti
+to result
+sopiri
+to yearn, to long for
+spaco
+space
+terura
+terrible
+vero
+truth
+# 57
+ebena
+level, even
+escepto
+exeption
+esperi
+to hope
+fremda
+foreign
+historio
+history, story
+kompari
+to compare
+koncerni
+to concern
+konformi
+to conform
+nepre
+inevitably, certainly, surely
+obei
+to obey
+obstina
+obstinate, stubborn
+promesi
+to promise
+rilato
+relation
+sata
+satisfied, full (not hungry)
+savi
+to save
+verki
+to compose (a book or music)
+# 58
+Aleksandrio
+Alexandria
+Ameriko
+America (continent)
+Aristotelo
+Aristotle
+Aŭstralio
+Australia
+biblioteko
+library
+eduki
+to bring up, educate
+Egiptio
+Egypt
+Egipto
+Egyptian
+estimi
+to esteem, think highly of
+firma
+firm, stable
+fondi
+to found, to establish
+hispano
+spaniard
+kapabla
+capable
+komuna
+common, mutual
+kontinento
+continent
+Kristo
+Christ
+miliono
+(a) million
+spite
+in spite of, defiantly
+vasta
+vast, extensive
+# 59
+adreso
+address
+aparta
+separate
+bedaŭri
+to regret
+ĉefa
+chief, main
+do
+so, then
+fontano
+fountain
+hotelo
+hotel
+inko
+ink
+konvena
+suitable, convenient
+koverto
+envelope (for letters)
+krajono
+pencil
+mendi
+to order, to reserve, to book
+Nov-Jorko
+New York
+numero
+numeral, edition, number
+ofico
+office, employment
+poŝto
+post (letters, etc.)
+respekto
+respect
+speciala
+special, particular
+stato
+condition, situation, state (of being)
+ŝtato
+state (political)
+tramo
+tram
+# 60
+aboni
+to subscribe to, to take
+aparato
+apparatus, device
+aŭtomata
+automatic
+bovo
+ox
+dimensio
+dimension
+ekzemplo
+example
+fokuso
+focus
+fotografi
+to photograph
+funkcii
+to function, work
+kamero
+camera
+ledo
+leather
+metalo
+metal
+momento
+moment
+negativo
+negative
+objektivo
+lens, objective
+originalo
+original
+plato
+plate (photographic, etc)
+provi
+to try, to test
+reklami
+to advertise
+streĉi
+to stretch
+

@@ -1,0 +1,738 @@
+aĉeti
+to buy
+aero
+air
+afero
+thing, matter, affair
+agi
+to act (do)
+akcepti
+to accept
+akvo
+water
+al
+to
+alia
+other
+alta
+high, tall
+ami
+to love
+amiko
+friend
+ankaŭ
+also, too
+ankoraŭ
+still, yet
+antaŭ
+before, in front of
+aperi
+to appear
+apud
+near, by
+arto
+art
+atendi
+to wait; to expect
+aŭ
+or
+aŭdi
+to hear
+aŭskulti
+to listen
+aŭto
+car
+baldaŭ
+soon
+bela
+beautiful
+bezoni
+to need
+bildo
+picture, image
+bona
+good
+celi
+to aim
+cent
+hundred
+certa
+certain, sure
+ĉambro
+room
+ĉar
+because
+ĉe
+at, beside
+ĉefa
+main
+ĉi
+denotes proximity
+ĉia
+all, every kind of
+ĉiam
+always
+ĉie
+everywhere
+ĉio
+everything, all
+ĉiu
+each one, everyone
+ĉu
+whether, if, do
+da
+of (quantity)
+danki
+to thank
+daŭri
+to last
+de
+of, from
+decidi
+to decide
+dek
+ten
+dekstra
+right(-hand)
+demandi
+to ask
+devi
+to have to
+deziri
+to desire, want, wish
+dika
+thick, fat
+direkti
+to guide, direct
+diri
+to say, tell
+diversa
+various, several
+do
+therefore, so, then
+doktoro
+doctor
+dolĉa
+sweet
+domo
+house
+doni
+to give
+dormi
+to sleep
+du
+two
+dum
+during, while
+eĉ
+even
+edzo
+husband
+ekster
+outside
+ekzemplo
+example
+ekzisti
+to exist
+el
+out of, from
+en
+in
+esperi
+to hope
+esti
+to be
+facila
+easy
+fako
+branch, department
+fakto
+fact
+fali
+to fall
+familio
+family
+fari
+to do; to make
+feliĉa
+fortunate, happy
+fenestro
+window
+fermi
+to close
+filo
+son
+fini
+to finish
+flanko
+side
+flugi
+to fly
+fojo
+time, occasion
+for
+away
+forgesi
+to forget
+forta
+strong
+foto
+photograph
+frato
+brother
+frua
+early
+funkcii
+to function
+glaso
+drinking glass
+granda
+big
+grava
+important
+grupo
+group
+ĝenerala
+general
+ĝi
+it
+ĝis
+until
+ĝusta
+right, correct
+havi
+to have
+hejmo
+home
+helpi
+to help
+hieraŭ
+yesterday
+historio
+history; story
+hodiaŭ
+today
+homo
+human being
+horo
+hour
+ia
+some, any kind of
+ial
+some reason
+iam
+sometimes
+ideo
+idea
+ie
+somewhere
+iel
+somehow
+ili
+they
+infano
+child
+informi
+to inform
+instrui
+to teach
+inter
+between, among
+inviti
+to invite
+io
+something
+iom
+somewhat
+iri
+to go
+iu
+someone
+jam
+already
+jaro
+year
+je
+upon, at, by, on
+jen
+here is
+jes
+yes
+juna
+young
+ĵeti
+to throw
+kaj
+and
+kampo
+field
+kanti
+to sing
+kapti
+to catch
+kara
+dear, expensive
+kaŝi
+to hide
+ke
+that (conj)
+kelka
+some
+kia
+what kind of
+kial
+why
+kiam
+when
+kie
+where
+kiel
+how
+kies
+whose
+kio
+what, which
+kiom
+how much
+kiu
+who
+klara
+clear, distinct
+knabo
+boy
+koloro
+colour
+komenci
+to begin
+kompreni
+to understand
+koni
+to know (person)
+konsenti
+to agree
+kontenta
+satisfied, content
+kontraŭ
+against, opposite
+kosti
+to cost
+kredi
+to believe
+krom
+except
+kun
+with
+kuŝi
+to lie down
+kvar
+four
+kvin
+five
+la
+the
+labori
+to work
+lakto
+milk
+lando
+country, land
+larĝa
+wide
+lasi
+to let, allow
+lasta
+recent, last
+legi
+to read
+lerni
+to learn
+letero
+letter
+li
+he
+libera
+free, unrestricted
+libro
+book
+lingvo
+language
+loko
+place
+longa
+long
+ludi
+to play
+manĝi
+to eat
+maniero
+manner, way
+manki
+to lack
+mano
+hand
+maro
+sea
+mateno
+morning
+mem
+-self, -selves
+memori
+to remember
+meti
+to put
+mezo
+middle
+mi
+I
+mil
+thousand
+milito
+war
+minuto
+minute
+miri
+to marvel
+monato
+month
+mondo
+world
+mono
+money
+montri
+to show
+morgaŭ
+tomorrow
+morti
+to die
+movi
+to move
+multa
+much, a lot of
+nacio
+nation
+naskiĝi
+to be born
+naturo
+nature
+naŭ
+nine
+ne
+no, not
+necesa
+necessary
+nenia
+no kind of
+neniam
+never
+nenie
+nowhere
+neniel
+in no way
+nenio
+nothing
+neniu
+no one
+ni
+we
+nomo
+name
+nova
+new
+nokto
+night
+numero
+number
+nun
+now
+nur
+only, merely
+ofte
+often
+ok
+eight
+okazi
+to occur
+ol
+than
+oni
+one, you, they
+opinio
+opinion
+organizi
+to organise
+pagi
+to pay
+paĝo
+page
+pano
+bread
+papero
+paper
+pardoni
+to forgive
+paroli
+to speak, talk
+parto
+part
+patro
+father
+peco
+piece
+pensi
+to think
+per
+with, through, by means of
+perdi
+to lose
+permesi
+to permit, allow
+persono
+person
+peti
+to request
+piedo
+foot
+plaĉi
+to be pleasing
+plej
+most
+plena
+full, complete
+pli
+more
+plu
+further, longer, more
+popolo
+people
+por
+for, in order to, for the sake of
+pordo
+door
+porti
+to carry; to wear
+post
+after
+poŝto
+post
+povi
+to be able to
+preni
+to take
+preskaŭ
+almost, nearly
+prezenti
+to present
+pri
+about, concerning
+pro
+for, in exchange for
+problemo
+problem
+proksima
+near, close
+provi
+to try
+pura
+pure, clean
+radio
+ray; radio
+rajto
+right, authority
+rakonti
+to tell a story
+rapida
+quick, fast
+raporti
+to report
+renkonti
+to meet
+respondi
+to answer
+resti
+to stay, remain
+ricevi
+to receive
+riĉa
+rich, wealthy
+ridi
+to laugh
+rigardi
+to look
+rilati
+to relate
+rimarki
+to notice
+rompi
+to break
+saluti
+to greet
+sama
+same
+sana
+healthy
+scienco
+science
+scii
+to know (fact)
+se
+if
+sed
+but
+seĝo
+chair
+sekvi
+to follow
+semajno
+week
+sen
+without
+sendi
+to send
+senti
+to feel
+sep
+seven
+serĉi
+to look for
+servi
+to serve
+ses
+six
+si
+onself
+sidi
+to sit
+simila
+similar
+simpla
+simple
+sinjoro
+mister, gentleman
+situacio
+situation
+skribi
+to write
+sola
+sole
+soni
+to sound
+stari
+to stand
+strato
+street
+studi
+to study
+sub
+under
+sufiĉa
+sufficient, enough
+sukcesi
+to succeed
+suno
+sun
+super
+above
+supren
+upwards
+sur
+on
+ŝajni
+to seem
+ŝanĝi
+to change
+ŝati
+to like
+ŝi
+she
+ŝipo
+ship
+tablo
+table
+tago
+day
+tamen
+however, nevertheless
+teatro
+theatre
+tempo
+time
+teni
+to hold
+tero
+earth, ground
+tia
+such, that kind
+tial
+therefore
+tiam
+then, at that time
+tie
+there
+tiel
+thus
+timi
+to fear
+tio
+that (thing)
+tiom
+that much
+tiu
+that one
+tra
+through
+trans
+across
+tre
+very
+tri
+three
+trinki
+to drink
+tro
+too, too much
+trovi
+to find
+tuj
+right away, immediately
+tuta
+whole, entire, all
+unu
+one
+urbo
+city
+uzi
+to use
+valori
+to value
+varma
+warm
+vendi
+to sell
+veni
+to come
+vera
+true, real
+vespero
+evening
+veturi
+to travel
+vi
+you
+vidi
+to see
+viro
+man
+vivi
+to live
+viziti
+to visit
+vojaĝi
+to journey
+vojo
+way, path, road
+voli
+to want
+vorto
+word
+zorgi
+to worry

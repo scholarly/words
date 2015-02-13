@@ -50,10 +50,11 @@ Start with these:
 
     * It should run on a stock (no developer mode hacking) Chromebook. 
     * It should be reasonably simple to use productively without a network connection.
+    
       Why: To me, the main reason for using a Chromebook is portability, and if you need a WIFI connection to study, you are limiting your location options.
-      - be able to download most of a "module" in one action
-      - transparently use this cached version whenever it is available
-      - maintain usage data while offline for synchronizing when online.
+        - be able to download most of a "module" in one action
+        - transparently use this cached version whenever it is available
+        - maintain usage data while offline for synchronizing when online.
     * It should record a lot of data about study events, in particular:
         - what activities were done, when, in what order, how much time was spent
         - what resources were accessed during the activities
@@ -62,5 +63,6 @@ Start with these:
     * Because of "Do less" below, a "course" in this system is really metadata to package existing resources. If a course already exists on Coursera, edX, YouTube etc., do not reinvent it, reference it and integrate it into your materials.
     
 Add the following:
-  https://gist.github.com/adamwiggins/5687294
 
+ *  https://gist.github.com/adamwiggins/5687294
+ * http://www.supermemo.com/articles/20rules.htm
